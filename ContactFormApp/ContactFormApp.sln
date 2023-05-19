@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactFormApp", "ContactFormApp\ContactFormApp.csproj", "{81B5A55E-C139-4654-93F8-083955BBB080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactFormApp_AutomationTests", "ContactFormApp_AutomationTests\ContactFormApp_AutomationTests.csproj", "{EEED154F-152F-4A2D-8974-C0C60C5C1409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B5A55E-C139-4654-93F8-083955BBB080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B5A55E-C139-4654-93F8-083955BBB080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B5A55E-C139-4654-93F8-083955BBB080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B5A55E-C139-4654-93F8-083955BBB080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEED154F-152F-4A2D-8974-C0C60C5C1409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEED154F-152F-4A2D-8974-C0C60C5C1409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEED154F-152F-4A2D-8974-C0C60C5C1409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEED154F-152F-4A2D-8974-C0C60C5C1409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {571E9DFB-50F5-41A8-A88D-084D6081B63F}
+	EndGlobalSection
+EndGlobal
